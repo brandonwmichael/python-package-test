@@ -1,0 +1,13 @@
+README.md
+pyproject.toml
+setup.cfg
+setup.py
+src/formatmyname/__init__.py
+src/formatmyname/format_name.py
+src/formatmyname.egg-info/PKG-INFO
+src/formatmyname.egg-info/SOURCES.txt
+src/formatmyname.egg-info/dependency_links.txt
+src/formatmyname.egg-info/not-zip-safe
+src/formatmyname.egg-info/requires.txt
+src/formatmyname.egg-info/top_level.txt
+tests/test_format_name.py
